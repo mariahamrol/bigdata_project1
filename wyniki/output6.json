@@ -1,0 +1,194 @@
+{"country":"Albania","cuisine":"Thai","total_orders":5008,"avg_total_price":87.2519628594249,"cancelled_ratio":0.3334664536741214,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"American Samoa","cuisine":"Japanese","total_orders":5037,"avg_total_price":86.29873138773078,"cancelled_ratio":0.342267222553107,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Andorra","cuisine":"Chinese","total_orders":4968,"avg_total_price":89.18698671497586,"cancelled_ratio":0.3419887278582931,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Angola","cuisine":"Indian","total_orders":5034,"avg_total_price":87.79505164878823,"cancelled_ratio":0.3438617401668653,"rank_in_country":1,"orders_deviation":57.0}
+{"country":"Angola","cuisine":"Greek","total_orders":4920,"avg_total_price":88.04868902439023,"cancelled_ratio":0.3475609756097561,"rank_in_country":2,"orders_deviation":-57.0}
+{"country":"Armenia","cuisine":"Mexican","total_orders":5155,"avg_total_price":87.65118719689623,"cancelled_ratio":0.3286129970902037,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Aruba","cuisine":"Indian","total_orders":5078,"avg_total_price":89.02505317053959,"cancelled_ratio":0.32374950768018906,"rank_in_country":1,"orders_deviation":48.0}
+{"country":"Aruba","cuisine":"Italian","total_orders":4982,"avg_total_price":85.48617824167002,"cancelled_ratio":0.3456443195503814,"rank_in_country":2,"orders_deviation":-48.0}
+{"country":"Austria","cuisine":"Polish","total_orders":5016,"avg_total_price":88.0220933014354,"cancelled_ratio":0.3263556618819777,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Bahamas","cuisine":"Mexican","total_orders":4910,"avg_total_price":87.74132382892056,"cancelled_ratio":0.33177189409368635,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Bahrain","cuisine":"French","total_orders":5006,"avg_total_price":88.46739312824612,"cancelled_ratio":0.32780663204155014,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Barbados","cuisine":"Indian","total_orders":4921,"avg_total_price":88.48371875635033,"cancelled_ratio":0.336720178825442,"rank_in_country":1,"orders_deviation":16.5}
+{"country":"Barbados","cuisine":"Chinese","total_orders":4888,"avg_total_price":86.88293985270049,"cancelled_ratio":0.3242635024549918,"rank_in_country":2,"orders_deviation":-16.5}
+{"country":"Belgium","cuisine":"Indian","total_orders":5034,"avg_total_price":88.75674612634087,"cancelled_ratio":0.3297576479936432,"rank_in_country":1,"orders_deviation":79.5}
+{"country":"Belgium","cuisine":"Mexican","total_orders":4875,"avg_total_price":88.31837128205129,"cancelled_ratio":0.35035897435897434,"rank_in_country":2,"orders_deviation":-79.5}
+{"country":"Bhutan","cuisine":"Italian","total_orders":4938,"avg_total_price":87.9693863912515,"cancelled_ratio":0.3351559335763467,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Bolivia","cuisine":"Japanese","total_orders":10057,"avg_total_price":87.07840409664912,"cancelled_ratio":0.32484836432335684,"rank_in_country":1,"orders_deviation":25.0}
+{"country":"Bolivia","cuisine":"Indian","total_orders":10007,"avg_total_price":88.28335365244328,"cancelled_ratio":0.33086839212551217,"rank_in_country":2,"orders_deviation":-25.0}
+{"country":"Bosnia and Herzegovina","cuisine":"Mexican","total_orders":5007,"avg_total_price":87.65212901937286,"cancelled_ratio":0.33513081685640106,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Botswana","cuisine":"Chinese","total_orders":4925,"avg_total_price":85.87597157360406,"cancelled_ratio":0.3275126903553299,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Bouvet Island (Bouvetoya)","cuisine":"Japanese","total_orders":4981,"avg_total_price":85.88316603091748,"cancelled_ratio":0.3316603091748645,"rank_in_country":1,"orders_deviation":14.0}
+{"country":"Bouvet Island (Bouvetoya)","cuisine":"Indian","total_orders":4977,"avg_total_price":87.5771066907776,"cancelled_ratio":0.33936106088004825,"rank_in_country":2,"orders_deviation":10.0}
+{"country":"Bouvet Island (Bouvetoya)","cuisine":"American","total_orders":4943,"avg_total_price":86.9169977746308,"cancelled_ratio":0.3319846247218288,"rank_in_country":3,"orders_deviation":-24.0}
+{"country":"Brazil","cuisine":"Greek","total_orders":4938,"avg_total_price":87.80218104495746,"cancelled_ratio":0.3266504657756177,"rank_in_country":2,"orders_deviation":-16.5}
+{"country":"Brazil","cuisine":"Italian","total_orders":4971,"avg_total_price":85.90167571917118,"cancelled_ratio":0.3295111647555824,"rank_in_country":1,"orders_deviation":16.5}
+{"country":"Brunei Darussalam","cuisine":"Japanese","total_orders":4888,"avg_total_price":86.2483510638298,"cancelled_ratio":0.33653846153846156,"rank_in_country":2,"orders_deviation":-85.5}
+{"country":"Brunei Darussalam","cuisine":"Thai","total_orders":5059,"avg_total_price":86.00480134413917,"cancelled_ratio":0.3245700731369836,"rank_in_country":1,"orders_deviation":85.5}
+{"country":"Bulgaria","cuisine":"French","total_orders":4913,"avg_total_price":84.96945857927948,"cancelled_ratio":0.3382861795237126,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Burkina Faso","cuisine":"Chinese","total_orders":4989,"avg_total_price":86.24761274804568,"cancelled_ratio":0.3291240729605131,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Cape Verde","cuisine":"Chinese","total_orders":5089,"avg_total_price":87.77748477107487,"cancelled_ratio":0.33385733935940265,"rank_in_country":1,"orders_deviation":31.5}
+{"country":"Cape Verde","cuisine":"Japanese","total_orders":5026,"avg_total_price":87.77786709112615,"cancelled_ratio":0.3366494230003979,"rank_in_country":2,"orders_deviation":-31.5}
+{"country":"Cayman Islands","cuisine":"Italian","total_orders":4984,"avg_total_price":87.56804975922952,"cancelled_ratio":0.3268459069020867,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Chile","cuisine":"Chinese","total_orders":5042,"avg_total_price":87.81532923443079,"cancelled_ratio":0.3367711225704086,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Cocos (Keeling) Islands","cuisine":"Thai","total_orders":5069,"avg_total_price":87.5921937265733,"cancelled_ratio":0.3300453738409943,"rank_in_country":1,"orders_deviation":18.0}
+{"country":"Cocos (Keeling) Islands","cuisine":"French","total_orders":5033,"avg_total_price":85.27872640572225,"cancelled_ratio":0.3314126763361812,"rank_in_country":2,"orders_deviation":-18.0}
+{"country":"Comoros","cuisine":"Greek","total_orders":5015,"avg_total_price":86.78295114656032,"cancelled_ratio":0.33599202392821537,"rank_in_country":2,"orders_deviation":11.66666666666697}
+{"country":"Comoros","cuisine":"American","total_orders":5130,"avg_total_price":86.08732943469785,"cancelled_ratio":0.3436647173489279,"rank_in_country":1,"orders_deviation":126.66666666666697}
+{"country":"Comoros","cuisine":"Japanese","total_orders":4865,"avg_total_price":88.26419321685509,"cancelled_ratio":0.3366906474820144,"rank_in_country":3,"orders_deviation":-138.33333333333303}
+{"country":"Cook Islands","cuisine":"American","total_orders":5086,"avg_total_price":87.85554463232404,"cancelled_ratio":0.3299252850963429,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Cuba","cuisine":"Mexican","total_orders":4984,"avg_total_price":87.85606540930982,"cancelled_ratio":0.3310593900481541,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Democratic People's Republic of Korea","cuisine":"Greek","total_orders":5005,"avg_total_price":87.02643356643357,"cancelled_ratio":0.32987012987012987,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Denmark","cuisine":"American","total_orders":5057,"avg_total_price":86.65195372750644,"cancelled_ratio":0.33161953727506427,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Dominican Republic","cuisine":"Italian","total_orders":4964,"avg_total_price":87.3400382755842,"cancelled_ratio":0.3356164383561644,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Ecuador","cuisine":"Japanese","total_orders":4936,"avg_total_price":86.15800445705024,"cancelled_ratio":0.336709886547812,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Eritrea","cuisine":"Polish","total_orders":4976,"avg_total_price":86.28879622186496,"cancelled_ratio":0.34264469453376206,"rank_in_country":1,"orders_deviation":4.5}
+{"country":"Eritrea","cuisine":"Greek","total_orders":4967,"avg_total_price":86.31065633178981,"cancelled_ratio":0.32514596335816387,"rank_in_country":2,"orders_deviation":-4.5}
+{"country":"Estonia","cuisine":"Polish","total_orders":5013,"avg_total_price":86.8305445840814,"cancelled_ratio":0.3267504488330341,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Falkland Islands (Malvinas)","cuisine":"Mexican","total_orders":5005,"avg_total_price":88.57449950049951,"cancelled_ratio":0.33446553446553445,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Faroe Islands","cuisine":"American","total_orders":4968,"avg_total_price":88.09446457326892,"cancelled_ratio":0.32045088566827695,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"France","cuisine":"Polish","total_orders":4939,"avg_total_price":88.45377606802997,"cancelled_ratio":0.3348856043733549,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"French Guiana","cuisine":"Chinese","total_orders":5084,"avg_total_price":87.41238394964594,"cancelled_ratio":0.32710464201416206,"rank_in_country":1,"orders_deviation":37.33333333333303}
+{"country":"French Guiana","cuisine":"Greek","total_orders":5082,"avg_total_price":89.24463203463203,"cancelled_ratio":0.3400236127508855,"rank_in_country":2,"orders_deviation":35.33333333333303}
+{"country":"French Guiana","cuisine":"Thai","total_orders":4974,"avg_total_price":88.32256533976678,"cancelled_ratio":0.3457981503819863,"rank_in_country":3,"orders_deviation":-72.66666666666697}
+{"country":"French Polynesia","cuisine":"Chinese","total_orders":4987,"avg_total_price":87.14780830158412,"cancelled_ratio":0.33126127932624827,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"French Southern Territories","cuisine":"Greek","total_orders":4891,"avg_total_price":87.38495808628093,"cancelled_ratio":0.3359231241054999,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Gabon","cuisine":"Japanese","total_orders":4997,"avg_total_price":86.3060136081649,"cancelled_ratio":0.3261957174304583,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Georgia","cuisine":"French","total_orders":5039,"avg_total_price":86.712744592181,"cancelled_ratio":0.34629886882317923,"rank_in_country":1,"orders_deviation":26.0}
+{"country":"Georgia","cuisine":"Greek","total_orders":4987,"avg_total_price":88.69477842390212,"cancelled_ratio":0.3370763986364548,"rank_in_country":2,"orders_deviation":-26.0}
+{"country":"Germany","cuisine":"Thai","total_orders":4998,"avg_total_price":86.62901160464185,"cancelled_ratio":0.34293717486994796,"rank_in_country":1,"orders_deviation":15.5}
+{"country":"Germany","cuisine":"Chinese","total_orders":4967,"avg_total_price":89.8779846990135,"cancelled_ratio":0.33762834709079925,"rank_in_country":2,"orders_deviation":-15.5}
+{"country":"Gibraltar","cuisine":"Italian","total_orders":10050,"avg_total_price":87.48610945273632,"cancelled_ratio":0.3244776119402985,"rank_in_country":1,"orders_deviation":2523.5}
+{"country":"Gibraltar","cuisine":"Greek","total_orders":5003,"avg_total_price":86.37673995602637,"cancelled_ratio":0.3341994803118129,"rank_in_country":2,"orders_deviation":-2523.5}
+{"country":"Greece","cuisine":"Indian","total_orders":4968,"avg_total_price":87.03611312399356,"cancelled_ratio":0.3333333333333333,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Grenada","cuisine":"Japanese","total_orders":5029,"avg_total_price":87.64772121694175,"cancelled_ratio":0.3336647444820044,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Guam","cuisine":"Japanese","total_orders":4863,"avg_total_price":86.66067036808552,"cancelled_ratio":0.3390910960312564,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Guatemala","cuisine":"Chinese","total_orders":5036,"avg_total_price":86.61467434471805,"cancelled_ratio":0.32446386020651313,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Guernsey","cuisine":"Japanese","total_orders":5079,"avg_total_price":86.40690293364837,"cancelled_ratio":0.33392400078755663,"rank_in_country":1,"orders_deviation":45.0}
+{"country":"Guernsey","cuisine":"American","total_orders":4989,"avg_total_price":87.5538945680497,"cancelled_ratio":0.3305271597514532,"rank_in_country":2,"orders_deviation":-45.0}
+{"country":"Guinea-Bissau","cuisine":"American","total_orders":4998,"avg_total_price":88.60860144057622,"cancelled_ratio":0.3319327731092437,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Guyana","cuisine":"Italian","total_orders":5040,"avg_total_price":88.19054365079366,"cancelled_ratio":0.3273809523809524,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Haiti","cuisine":"Indian","total_orders":4915,"avg_total_price":87.84304374364191,"cancelled_ratio":0.335707019328586,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Holy See (Vatican City State)","cuisine":"Mexican","total_orders":4980,"avg_total_price":86.84944578313254,"cancelled_ratio":0.3417670682730924,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Honduras","cuisine":"Thai","total_orders":4958,"avg_total_price":86.09235780556676,"cancelled_ratio":0.3424768051633723,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Hong Kong","cuisine":"Polish","total_orders":4968,"avg_total_price":87.5199838969404,"cancelled_ratio":0.3280998389694042,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Hungary","cuisine":"Chinese","total_orders":5025,"avg_total_price":86.72127761194031,"cancelled_ratio":0.3371144278606965,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Iran","cuisine":"Polish","total_orders":4989,"avg_total_price":87.75069553016637,"cancelled_ratio":0.33213068751252756,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Iraq","cuisine":"Indian","total_orders":4949,"avg_total_price":87.0729702970297,"cancelled_ratio":0.3433016771064862,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Jamaica","cuisine":"Greek","total_orders":5002,"avg_total_price":86.48913034786084,"cancelled_ratio":0.3204718112754898,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Jordan","cuisine":"Polish","total_orders":4982,"avg_total_price":87.03420915295062,"cancelled_ratio":0.33380168606985144,"rank_in_country":1,"orders_deviation":31.33333333333303}
+{"country":"Jordan","cuisine":"French","total_orders":4962,"avg_total_price":86.3985731559855,"cancelled_ratio":0.3268843208383716,"rank_in_country":2,"orders_deviation":11.33333333333303}
+{"country":"Jordan","cuisine":"Japanese","total_orders":4908,"avg_total_price":87.57781784841075,"cancelled_ratio":0.33700081499592505,"rank_in_country":3,"orders_deviation":-42.66666666666697}
+{"country":"Kazakhstan","cuisine":"Greek","total_orders":4948,"avg_total_price":87.34382983023443,"cancelled_ratio":0.3280113177041229,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Kiribati","cuisine":"Italian","total_orders":5012,"avg_total_price":88.12502793296089,"cancelled_ratio":0.3465682362330407,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Kuwait","cuisine":"Indian","total_orders":4925,"avg_total_price":89.51929746192896,"cancelled_ratio":0.3366497461928934,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Kyrgyz Republic","cuisine":"American","total_orders":4955,"avg_total_price":87.55439354187689,"cancelled_ratio":0.3313824419778002,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Lao People's Democratic Republic","cuisine":"American","total_orders":5071,"avg_total_price":90.2344192466969,"cancelled_ratio":0.3307040031551962,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Lesotho","cuisine":"Mexican","total_orders":5133,"avg_total_price":86.86383985973113,"cancelled_ratio":0.3333333333333333,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Libyan Arab Jamahiriya","cuisine":"Thai","total_orders":5042,"avg_total_price":88.03936533121777,"cancelled_ratio":0.3276477588258628,"rank_in_country":1,"orders_deviation":42.5}
+{"country":"Libyan Arab Jamahiriya","cuisine":"Japanese","total_orders":4957,"avg_total_price":88.18133951987089,"cancelled_ratio":0.3207585233003833,"rank_in_country":2,"orders_deviation":-42.5}
+{"country":"Lithuania","cuisine":"Greek","total_orders":5079,"avg_total_price":88.87193542035831,"cancelled_ratio":0.33510533569600315,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Luxembourg","cuisine":"French","total_orders":4981,"avg_total_price":87.81183296526801,"cancelled_ratio":0.3284481027906043,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Malawi","cuisine":"Greek","total_orders":4991,"avg_total_price":87.88569424964938,"cancelled_ratio":0.3203766780204368,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Malta","cuisine":"Greek","total_orders":4978,"avg_total_price":86.10938931297709,"cancelled_ratio":0.3489353153877059,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Marshall Islands","cuisine":"Mexican","total_orders":4960,"avg_total_price":86.98097379032258,"cancelled_ratio":0.33931451612903224,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Mauritania","cuisine":"Japanese","total_orders":4898,"avg_total_price":87.61252756227029,"cancelled_ratio":0.3309514087382605,"rank_in_country":1,"orders_deviation":32.0}
+{"country":"Mauritania","cuisine":"American","total_orders":4834,"avg_total_price":87.37417666528755,"cancelled_ratio":0.3473314025651634,"rank_in_country":2,"orders_deviation":-32.0}
+{"country":"Mauritius","cuisine":"Thai","total_orders":4929,"avg_total_price":88.87345506187866,"cancelled_ratio":0.33089876242645566,"rank_in_country":2,"orders_deviation":-95.0}
+{"country":"Mauritius","cuisine":"Italian","total_orders":5119,"avg_total_price":86.78524516507132,"cancelled_ratio":0.34557530767728073,"rank_in_country":1,"orders_deviation":95.0}
+{"country":"Mayotte","cuisine":"Mexican","total_orders":5076,"avg_total_price":88.35471828211189,"cancelled_ratio":0.33648542159180456,"rank_in_country":1,"orders_deviation":28.5}
+{"country":"Mayotte","cuisine":"Greek","total_orders":5019,"avg_total_price":88.28566646742381,"cancelled_ratio":0.3225742179717075,"rank_in_country":2,"orders_deviation":-28.5}
+{"country":"Mexico","cuisine":"Mexican","total_orders":5039,"avg_total_price":87.75547132367532,"cancelled_ratio":0.3337963881722564,"rank_in_country":1,"orders_deviation":46.5}
+{"country":"Mexico","cuisine":"Indian","total_orders":4946,"avg_total_price":87.6668095430651,"cancelled_ratio":0.3321876263647392,"rank_in_country":2,"orders_deviation":-46.5}
+{"country":"Micronesia","cuisine":"Thai","total_orders":5051,"avg_total_price":86.6650544446644,"cancelled_ratio":0.3351811522470798,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Moldova","cuisine":"Mexican","total_orders":4991,"avg_total_price":88.31551592867162,"cancelled_ratio":0.32418353035463837,"rank_in_country":1,"orders_deviation":20.0}
+{"country":"Moldova","cuisine":"Japanese","total_orders":4951,"avg_total_price":88.22600686729953,"cancelled_ratio":0.34518279135528174,"rank_in_country":2,"orders_deviation":-20.0}
+{"country":"Mongolia","cuisine":"Chinese","total_orders":5156,"avg_total_price":89.18631497284717,"cancelled_ratio":0.33145849495733126,"rank_in_country":1,"orders_deviation":99.66666666666697}
+{"country":"Mongolia","cuisine":"American","total_orders":5046,"avg_total_price":87.64060642092748,"cancelled_ratio":0.3321442726912406,"rank_in_country":2,"orders_deviation":-10.33333333333303}
+{"country":"Mongolia","cuisine":"Japanese","total_orders":4967,"avg_total_price":87.06988121602575,"cancelled_ratio":0.32353533319911415,"rank_in_country":3,"orders_deviation":-89.33333333333303}
+{"country":"Montenegro","cuisine":"Japanese","total_orders":4960,"avg_total_price":88.69525604838711,"cancelled_ratio":0.3304435483870968,"rank_in_country":2,"orders_deviation":-1.0}
+{"country":"Montenegro","cuisine":"Indian","total_orders":4962,"avg_total_price":85.55614469971785,"cancelled_ratio":0.3355501813784764,"rank_in_country":1,"orders_deviation":1.0}
+{"country":"Montserrat","cuisine":"French","total_orders":5103,"avg_total_price":87.77072506368802,"cancelled_ratio":0.3464628649813835,"rank_in_country":1,"orders_deviation":31.5}
+{"country":"Montserrat","cuisine":"Japanese","total_orders":5040,"avg_total_price":86.4372718253968,"cancelled_ratio":0.34464285714285714,"rank_in_country":2,"orders_deviation":-31.5}
+{"country":"Morocco","cuisine":"French","total_orders":5179,"avg_total_price":88.01665765591814,"cancelled_ratio":0.33346205831241554,"rank_in_country":1,"orders_deviation":126.5}
+{"country":"Morocco","cuisine":"Mexican","total_orders":4926,"avg_total_price":87.08903369874136,"cancelled_ratio":0.3447015834348356,"rank_in_country":2,"orders_deviation":-126.5}
+{"country":"Mozambique","cuisine":"Polish","total_orders":5024,"avg_total_price":86.42812300955417,"cancelled_ratio":0.32921974522292996,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Myanmar","cuisine":"Japanese","total_orders":5081,"avg_total_price":86.95474709702815,"cancelled_ratio":0.33044676244833693,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Nauru","cuisine":"Polish","total_orders":5027,"avg_total_price":87.46201113984485,"cancelled_ratio":0.3333996419335588,"rank_in_country":1,"orders_deviation":28.0}
+{"country":"Nauru","cuisine":"American","total_orders":4971,"avg_total_price":86.85964393482197,"cancelled_ratio":0.3476161738080869,"rank_in_country":2,"orders_deviation":-28.0}
+{"country":"Netherlands","cuisine":"Italian","total_orders":5113,"avg_total_price":87.73038529239194,"cancelled_ratio":0.32231566594954036,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Netherlands Antilles","cuisine":"Italian","total_orders":4990,"avg_total_price":86.60998196392784,"cancelled_ratio":0.3306613226452906,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"New Caledonia","cuisine":"Mexican","total_orders":4953,"avg_total_price":87.51555420956994,"cancelled_ratio":0.32182515647082577,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Nicaragua","cuisine":"Greek","total_orders":4917,"avg_total_price":87.46144193613993,"cancelled_ratio":0.33963799064470207,"rank_in_country":2,"orders_deviation":-104.0}
+{"country":"Nicaragua","cuisine":"Indian","total_orders":5125,"avg_total_price":87.50931512195122,"cancelled_ratio":0.34517073170731705,"rank_in_country":1,"orders_deviation":104.0}
+{"country":"Niger","cuisine":"French","total_orders":5028,"avg_total_price":89.32269689737471,"cancelled_ratio":0.332140015910899,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Norfolk Island","cuisine":"Polish","total_orders":4925,"avg_total_price":87.13202842639593,"cancelled_ratio":0.3334010152284264,"rank_in_country":1,"orders_deviation":1.5}
+{"country":"Norfolk Island","cuisine":"Indian","total_orders":4922,"avg_total_price":86.68030475416498,"cancelled_ratio":0.33197887037789514,"rank_in_country":2,"orders_deviation":-1.5}
+{"country":"Palestinian Territory","cuisine":"Thai","total_orders":5019,"avg_total_price":87.2787905957362,"cancelled_ratio":0.3369197051205419,"rank_in_country":1,"orders_deviation":37.0}
+{"country":"Palestinian Territory","cuisine":"Mexican","total_orders":4945,"avg_total_price":87.61110616784632,"cancelled_ratio":0.33367037411526795,"rank_in_country":2,"orders_deviation":-37.0}
+{"country":"Papua New Guinea","cuisine":"Japanese","total_orders":5038,"avg_total_price":86.77006947201271,"cancelled_ratio":0.3374354902739182,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Paraguay","cuisine":"French","total_orders":10003,"avg_total_price":87.67624812556232,"cancelled_ratio":0.3348995301409577,"rank_in_country":1,"orders_deviation":3734.0}
+{"country":"Paraguay","cuisine":"Thai","total_orders":5046,"avg_total_price":88.21144669044787,"cancelled_ratio":0.33590963139120095,"rank_in_country":2,"orders_deviation":-1223.0}
+{"country":"Paraguay","cuisine":"Italian","total_orders":5032,"avg_total_price":87.29777027027028,"cancelled_ratio":0.32829888712241656,"rank_in_country":3,"orders_deviation":-1237.0}
+{"country":"Paraguay","cuisine":"Indian","total_orders":4995,"avg_total_price":86.46144144144144,"cancelled_ratio":0.33653653653653653,"rank_in_country":4,"orders_deviation":-1274.0}
+{"country":"Peru","cuisine":"Greek","total_orders":5031,"avg_total_price":88.65382230172928,"cancelled_ratio":0.34088650367720136,"rank_in_country":2,"orders_deviation":-11.0}
+{"country":"Peru","cuisine":"French","total_orders":5053,"avg_total_price":86.56025331486245,"cancelled_ratio":0.3374233128834356,"rank_in_country":1,"orders_deviation":11.0}
+{"country":"Philippines","cuisine":"American","total_orders":5004,"avg_total_price":87.44479416466828,"cancelled_ratio":0.33972821742605913,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Pitcairn Islands","cuisine":"Chinese","total_orders":5069,"avg_total_price":84.88577431446045,"cancelled_ratio":0.33497731307950285,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Portugal","cuisine":"Thai","total_orders":5026,"avg_total_price":87.18733187425387,"cancelled_ratio":0.33605252686032633,"rank_in_country":1,"orders_deviation":34.5}
+{"country":"Portugal","cuisine":"Italian","total_orders":4957,"avg_total_price":87.19884405890659,"cancelled_ratio":0.33104700423643335,"rank_in_country":2,"orders_deviation":-34.5}
+{"country":"Puerto Rico","cuisine":"Chinese","total_orders":5061,"avg_total_price":87.00731475992886,"cancelled_ratio":0.33629717447144836,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Qatar","cuisine":"Japanese","total_orders":4996,"avg_total_price":87.9975840672538,"cancelled_ratio":0.32926341072858284,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Reunion","cuisine":"Greek","total_orders":5032,"avg_total_price":87.92062996820349,"cancelled_ratio":0.33525437201907793,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Romania","cuisine":"Japanese","total_orders":9910,"avg_total_price":87.33133299697276,"cancelled_ratio":0.33128153380423814,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Russian Federation","cuisine":"Polish","total_orders":4929,"avg_total_price":87.8919456279164,"cancelled_ratio":0.3343477378778657,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Rwanda","cuisine":"Italian","total_orders":4930,"avg_total_price":87.2244279918864,"cancelled_ratio":0.33914807302231237,"rank_in_country":1,"orders_deviation":21.5}
+{"country":"Rwanda","cuisine":"Chinese","total_orders":4887,"avg_total_price":86.26935134029057,"cancelled_ratio":0.3218743605483937,"rank_in_country":2,"orders_deviation":-21.5}
+{"country":"Saint Lucia","cuisine":"Italian","total_orders":5092,"avg_total_price":88.12484485467401,"cancelled_ratio":0.32580518460329927,"rank_in_country":1,"orders_deviation":20.0}
+{"country":"Saint Lucia","cuisine":"Japanese","total_orders":5052,"avg_total_price":88.6467102137767,"cancelled_ratio":0.33768804433887567,"rank_in_country":2,"orders_deviation":-20.0}
+{"country":"Saint Martin","cuisine":"Polish","total_orders":5012,"avg_total_price":87.51692537909021,"cancelled_ratio":0.32901037509976055,"rank_in_country":1,"orders_deviation":47.5}
+{"country":"Saint Martin","cuisine":"Indian","total_orders":4917,"avg_total_price":87.12465934512916,"cancelled_ratio":0.3306894447834045,"rank_in_country":2,"orders_deviation":-47.5}
+{"country":"San Marino","cuisine":"Greek","total_orders":5065,"avg_total_price":86.45259032576504,"cancelled_ratio":0.33247778874629813,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Sao Tome and Principe","cuisine":"Mexican","total_orders":5144,"avg_total_price":87.4175699844479,"cancelled_ratio":0.33825816485225507,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Senegal","cuisine":"Italian","total_orders":4964,"avg_total_price":87.65048146655923,"cancelled_ratio":0.3396454472199839,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Serbia","cuisine":"Chinese","total_orders":5072,"avg_total_price":87.39221608832807,"cancelled_ratio":0.33241324921135645,"rank_in_country":1,"orders_deviation":85.33333333333303}
+{"country":"Serbia","cuisine":"Mexican","total_orders":4987,"avg_total_price":87.34746340485259,"cancelled_ratio":0.33126127932624827,"rank_in_country":2,"orders_deviation":0.33333333333303017}
+{"country":"Serbia","cuisine":"Thai","total_orders":4901,"avg_total_price":87.68024484799022,"cancelled_ratio":0.34074678637012856,"rank_in_country":3,"orders_deviation":-85.66666666666697}
+{"country":"Seychelles","cuisine":"French","total_orders":4979,"avg_total_price":88.88689094195621,"cancelled_ratio":0.3287808796947178,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Sierra Leone","cuisine":"Japanese","total_orders":5044,"avg_total_price":88.0812192704203,"cancelled_ratio":0.3380253766851705,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Solomon Islands","cuisine":"Polish","total_orders":5080,"avg_total_price":88.56112401574804,"cancelled_ratio":0.3224409448818898,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Somalia","cuisine":"Thai","total_orders":10071,"avg_total_price":87.2184380895641,"cancelled_ratio":0.3302551881640354,"rank_in_country":1,"orders_deviation":2482.0}
+{"country":"Somalia","cuisine":"Greek","total_orders":5107,"avg_total_price":87.79551987468182,"cancelled_ratio":0.32132367338946544,"rank_in_country":2,"orders_deviation":-2482.0}
+{"country":"Spain","cuisine":"Thai","total_orders":5038,"avg_total_price":88.82441445017864,"cancelled_ratio":0.3370385073441842,"rank_in_country":1,"orders_deviation":5.5}
+{"country":"Spain","cuisine":"Japanese","total_orders":5027,"avg_total_price":87.81027451760494,"cancelled_ratio":0.32663616471056295,"rank_in_country":2,"orders_deviation":-5.5}
+{"country":"Sri Lanka","cuisine":"Polish","total_orders":5080,"avg_total_price":87.92415354330709,"cancelled_ratio":0.3283464566929134,"rank_in_country":1,"orders_deviation":71.5}
+{"country":"Sri Lanka","cuisine":"Mexican","total_orders":4937,"avg_total_price":87.22053068665181,"cancelled_ratio":0.33340085071906017,"rank_in_country":2,"orders_deviation":-71.5}
+{"country":"Sudan","cuisine":"Mexican","total_orders":5064,"avg_total_price":86.45931872037912,"cancelled_ratio":0.32661927330173773,"rank_in_country":1,"orders_deviation":22.5}
+{"country":"Sudan","cuisine":"Italian","total_orders":5019,"avg_total_price":87.21202630005978,"cancelled_ratio":0.3275552898983861,"rank_in_country":2,"orders_deviation":-22.5}
+{"country":"Suriname","cuisine":"French","total_orders":4941,"avg_total_price":87.39971058490185,"cancelled_ratio":0.34446468326249746,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Swaziland","cuisine":"Japanese","total_orders":4905,"avg_total_price":86.31459123343527,"cancelled_ratio":0.3306829765545362,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Switzerland","cuisine":"Indian","total_orders":5073,"avg_total_price":86.95496353242659,"cancelled_ratio":0.33885274985215846,"rank_in_country":1,"orders_deviation":40.5}
+{"country":"Switzerland","cuisine":"Italian","total_orders":4992,"avg_total_price":87.50038862179487,"cancelled_ratio":0.3297275641025641,"rank_in_country":2,"orders_deviation":-40.5}
+{"country":"Syrian Arab Republic","cuisine":"Thai","total_orders":4962,"avg_total_price":88.25256146715033,"cancelled_ratio":0.33635630794034665,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Tanzania","cuisine":"Italian","total_orders":4955,"avg_total_price":87.2180988900101,"cancelled_ratio":0.3239152371342079,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Thailand","cuisine":"Chinese","total_orders":4989,"avg_total_price":87.28583884546002,"cancelled_ratio":0.33794347564642213,"rank_in_country":1,"orders_deviation":73.0}
+{"country":"Thailand","cuisine":"French","total_orders":4843,"avg_total_price":86.59029114185422,"cancelled_ratio":0.3361552756555854,"rank_in_country":2,"orders_deviation":-73.0}
+{"country":"Togo","cuisine":"Italian","total_orders":4911,"avg_total_price":88.14533088983913,"cancelled_ratio":0.33374058236611687,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Tokelau","cuisine":"French","total_orders":5048,"avg_total_price":86.33488906497624,"cancelled_ratio":0.3256735340729002,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Trinidad and Tobago","cuisine":"Greek","total_orders":5001,"avg_total_price":86.86477904419115,"cancelled_ratio":0.33893221355728853,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Tunisia","cuisine":"Chinese","total_orders":5005,"avg_total_price":86.9554045954046,"cancelled_ratio":0.3142857142857143,"rank_in_country":1,"orders_deviation":34.0}
+{"country":"Tunisia","cuisine":"Thai","total_orders":4937,"avg_total_price":87.6517318209439,"cancelled_ratio":0.3208426169738708,"rank_in_country":2,"orders_deviation":-34.0}
+{"country":"Turkmenistan","cuisine":"Mexican","total_orders":5028,"avg_total_price":87.43656921241052,"cancelled_ratio":0.34069212410501193,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Tuvalu","cuisine":"Indian","total_orders":4977,"avg_total_price":87.3573940124573,"cancelled_ratio":0.3399638336347197,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Uganda","cuisine":"French","total_orders":4915,"avg_total_price":88.65103560528992,"cancelled_ratio":0.3375381485249237,"rank_in_country":2,"orders_deviation":-117.0}
+{"country":"Uganda","cuisine":"Indian","total_orders":5149,"avg_total_price":87.62968343367645,"cancelled_ratio":0.3375412701495436,"rank_in_country":1,"orders_deviation":117.0}
+{"country":"United Kingdom","cuisine":"Mexican","total_orders":4968,"avg_total_price":87.69346417069244,"cancelled_ratio":0.339573268921095,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"United States Minor Outlying Islands","cuisine":"Polish","total_orders":4945,"avg_total_price":87.16651365015167,"cancelled_ratio":0.3326592517694641,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"United States of America","cuisine":"French","total_orders":5066,"avg_total_price":88.26250493485986,"cancelled_ratio":0.3314251875246743,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Uruguay","cuisine":"Mexican","total_orders":4991,"avg_total_price":88.6356842316169,"cancelled_ratio":0.33540372670807456,"rank_in_country":1,"orders_deviation":0.0}
+{"country":"Wallis and Futuna","cuisine":"Italian","total_orders":5101,"avg_total_price":88.24170162713195,"cancelled_ratio":0.33189570672417174,"rank_in_country":1,"orders_deviation":39.5}
+{"country":"Wallis and Futuna","cuisine":"French","total_orders":5022,"avg_total_price":86.48064914376741,"cancelled_ratio":0.3448825169255277,"rank_in_country":2,"orders_deviation":-39.5}
+{"country":"Western Sahara","cuisine":"American","total_orders":5093,"avg_total_price":89.71343019831141,"cancelled_ratio":0.3267229530728451,"rank_in_country":1,"orders_deviation":46.5}
+{"country":"Western Sahara","cuisine":"Indian","total_orders":5000,"avg_total_price":86.17149,"cancelled_ratio":0.3276,"rank_in_country":2,"orders_deviation":-46.5}
+{"country":"Zimbabwe","cuisine":"Polish","total_orders":5058,"avg_total_price":87.88164689600633,"cancelled_ratio":0.3349149861605378,"rank_in_country":1,"orders_deviation":62.5}
+{"country":"Zimbabwe","cuisine":"Italian","total_orders":4933,"avg_total_price":88.57778430975065,"cancelled_ratio":0.3413744171903507,"rank_in_country":2,"orders_deviation":-62.5}
